@@ -1,1 +1,1 @@
-# HTML-Projects
+HTML Codes for practice and fun!
